@@ -1,8 +1,8 @@
  {
-  "name": "prueba-grunt",
+  "name": "prueba-grunt-angular",
   "version": "0.0.1",
-  "description": "Pequeña prueba de Grunt.js",
-  "author": "Jonathan Wiesel",
+  "description": "Pequeña prueba de Grunt.js y angular",
+  "author": "Carlos Porras",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.4",
